@@ -1,0 +1,18 @@
+SPECTRAL ANALYSIS RESULTS
+======================================================================
+
+Dataset: 44 languages, 5 families
+
+CLUSTERING METRICS:
+  Silhouette Score:      +0.1429
+  Calinski-Harabasz:     7.33
+  Davies-Bouldin:        19.03
+  Ratio inter/intra:     2.435×
+
+DISTANCES:
+  INTRA-family: 0.0271 ± 0.0258
+  INTER-family: 0.0660 ± 0.0392
+
+CLASSIFICATION:
+  Random Forest: 0.725 ± 0.119
+  SVM (RBF):     0.453 ± 0.135
